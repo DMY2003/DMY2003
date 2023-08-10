@@ -6,4 +6,4 @@ I am skilled in data analysis, visualization & cloud management. Passionate abou
 
 [CTFtime](https://ctftime.org/user/97869)
 
-You can contact me **LinkedIn** or **Discord**: @*dmy2003*
+I am a Freelancer, you can contact me on **LinkedIn** or **Discord**: @*dmy2003*
