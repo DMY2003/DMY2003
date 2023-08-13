@@ -2,6 +2,9 @@
 I am skilled in data analysis, visualization & cloud management. Passionate about cyber security, gamdev & general problem-solving. Strong in reverse-engineering from creating successful game cheats.
 
 ### LINKS
+
+[CV Website](https://dmy2003.github.io)
+
 [LinkedIn](https://www.linkedin.com/in/damianmitrofan/)
 
 [CTFtime](https://ctftime.org/user/97869)
