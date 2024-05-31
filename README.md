@@ -3,7 +3,7 @@ I am skilled in data analysis, visualization & cloud management. Passionate abou
 
 ### LINKS
 
-[CV Website](https://dmy2003.github.io)
+[CV Website](https://mitrofan.dev/)
 
 [LinkedIn](https://www.linkedin.com/in/damianmitrofan/)
 
